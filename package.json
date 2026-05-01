@@ -1,0 +1,23 @@
+{
+  "name": "api_testing_with_cypress",
+  "version": "1.0.0",
+  "description": "API Testing with Cypress",
+  "homepage": "https://github.com/sw1pgh/API_Testing_with_Cypress#readme",
+  "bugs": {
+    "url": "https://github.com/sw1pgh/API_Testing_with_Cypress/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sw1pgh/API_Testing_with_Cypress.git"
+  },
+  "license": "ISC",
+  "author": "Swapnaneel Ghosh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cypress": "^15.14.2"
+  }
+}
